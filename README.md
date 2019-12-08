@@ -20,6 +20,8 @@ The pre-fitted embeddings can be found below:
 
 + https://bitbucket.org/diengadji/embeddings/src
 
+All the scripts to pre-process a dataset can be found in the folder 'scripts'. 
+
 ## Example
 
 To run the DETM on the ACL dataset you can run the command below. You can specify different values for other arguments, peek at the arguments list in main.py.
